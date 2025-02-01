@@ -1,3 +1,3 @@
 # Animações com Flutter
 
-![Demonstração](./assets/gifs/animation.gif)
+<img src="./assets/gifs/animation.gif" width="300" alt="Animation preview">
